@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackpott21
 - 👀 I’m interested in be a full-stack developer
-- Experience in HTML5 | CCS3 | TypeScript | NodeJs | Solidity
-- 🌱 I’m currently working with Node js and Solidity
+- Experience in HTML5 | CCS3 | JavaScript | NodeJs | Express
+- 🌱 I’m currently working with Node js and learning Solidity
 - 💞️ I’m looking to collaborate in the world of web programming
 - 📫 How to reach me (https://www.instagram.com/joacc.ah.c/?hl=es)
 
