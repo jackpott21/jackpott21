@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackpott21
-- 👀 I’m interested in be a professional full-stack developer
+- 👀 I’m interested in be a senior full-stack developer
 - Experience in HTML5 | CCS3 | JavaScript | NodeJs | Express
 - 🌱 I’m currently working with Node js and learning next js
 - 💞️ I’m looking to collaborate in the world of web programming
